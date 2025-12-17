@@ -1,4 +1,4 @@
-//Just simple employees registration and managment system program with array[] for loopg.  it --version
+//Just simple employees registration and managment system program with array[] for loop.  it --version
 package SystemProjects;
 
 import javax.naming.Name;
@@ -220,7 +220,7 @@ public class EmployeeSystem {
                         boolean RunAgen = true;
                         while (RunAgen) {
 
-                            System.out.print("You want Need Search yes/no : ");
+                            System.out.print("You want Need Search ID yes/no : ");
                             String input = sc.nextLine();
 
 
