@@ -306,7 +306,6 @@ public class Employee {
 
                     default:
                         System.out.print("Enter correct choice");
-
                 }
             }
         }else{
